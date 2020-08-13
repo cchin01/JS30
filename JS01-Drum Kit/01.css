@@ -7,7 +7,7 @@
 
 html {
   font-size: 10px;
-  background: url(/img/01_bg.jpg) bottom center;
+  background: url(../JS01-Drum Kit/img/01_bg.jpg) bottom center;
   background-size: cover;
 }
 body,html {
